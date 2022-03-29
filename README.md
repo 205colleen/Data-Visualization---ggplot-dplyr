@@ -28,10 +28,14 @@ Create a scatter plot with gdpPercap on the x-axis and lifeExp on the y-axis
 
 Adding log Scales to the scatterplots
 
+![My_Image](Images/image1.png)
+
 ## Task 3: Additional Aesthetics: Color & Size Aesthetics
 Scatter plot comparing pop and lifeExp, with colour representing the continent
 
 Add the size aesthetic to represent a country's gdpPercap
+
+![My_Image](Images/image2.png)
 
 ## Task 4: Facetting
 Scatter plot comparing pop and lifeExp, faceted by continent
