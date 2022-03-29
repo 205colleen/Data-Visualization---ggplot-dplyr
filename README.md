@@ -7,9 +7,9 @@
 
 -Create different plots from the results of dplyr verbs using ggplot2
 
-Project Structure
+### Project Structure:
 
-The hands-on project on Data Visualization using dplyr and ggplot2 in R is divided into the following tasks:
+This hands-on project on Data Visualization using dplyr and ggplot2 in R is divided into the following tasks:
 
 ## Task 1: Import packages & dataset
 About tidyverse, the dplyr, and the ggplot2 package
