@@ -2,10 +2,13 @@
 
 ## Learning Objectives
 -Understand the use of tidyverse, the dplyr and the ggplot2 package
+
 -Manipulate the gapminder dataset using different dplyr verbs
+
 -Create different plots from the results of dplyr verbs using ggplot2
 
 Project Structure
+
 The hands-on project on Data Visualization using dplyr and ggplot2 in R is divided into the following tasks:
 
 ## Task 1: Import packages & dataset
