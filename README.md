@@ -41,6 +41,7 @@ Add the size aesthetic to represent a country's gdpPercap
 Scatter plot comparing pop and lifeExp, faceted by continent
 
 Scatter plot comparing gdpPercap and lifeExp, with colour representing continent and size representing the population, faceted by year
+![My_Image](Images/image4.png)
 
 ## Task 5: Visualizing summarized data: Scatterplots
 Create a variable by_year that gets the median life expectancy for each year
@@ -54,6 +55,7 @@ Plot the change in medianGdpPercap in each continent over time
 Summarize the median GDP and median life expectancy per continent in 2007
 
 Use a scatter plot to compare the median GDP and median life expectancy
+![My_Image](Images/image5.png)
 
 ## Task 6: Visualizing summarized data: Line plots
 Summarize the median gdpPercap by year, then save it as by_year expectancy
@@ -63,6 +65,7 @@ Create a line plot showing the change in medianGdpPercap over time
 Summarize the median gdpPercap by year & continent, save as by_year_continent
 
 Create a line plot showing the change in medianGdpPercap by continent over time
+![My_Image](Images/image6.png)
 
 ## Task 7: Visualizing summarized data: Bar plots
 Summarize the median gdpPercap by continent in 1957
@@ -72,6 +75,7 @@ Create a bar plot showing medianGdp by continent
 Visualizing GDP per capita by country in Oceania
 
 Create a bar plot of gdpPercap by country
+![My_Image](Images/image7.png)
 
 ## Task 8: Visualizing summarized data: Histograms
 Filter the dataset for the year 1957. Create a new column called pop_by_mil. Save this in a new variable called gapminder_1957
@@ -81,6 +85,7 @@ Create a histogram of the population (pop_by_mil)
 Recreate the gapminder_1957 and filter for the year 1957 only
 
 Create a histogram of the population (pop), with x on a log scale
+![My_Image](Images/image8.png)
 
 ## Task 9: Visualizing summarized data: Boxplots
 Create the gapminder_1957 and filter for the year 1957 only
@@ -88,3 +93,4 @@ Create the gapminder_1957 and filter for the year 1957 only
 Create a boxplot comparing gdpPercap among continents
 
 Add a title to this graph: "Comparing GDP per capita across continents"
+![My_Image](Images/image9.png)
